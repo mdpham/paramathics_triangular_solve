@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# 
+.vscode
+build/*
+data/torso1
+data/TSOPF_RS_b678_c2
